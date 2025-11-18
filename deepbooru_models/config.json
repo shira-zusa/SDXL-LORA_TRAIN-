@@ -1,0 +1,20 @@
+{
+  "block_out_channels": [
+    256,
+    512,
+    1024,
+    1024,
+    2048,
+    4096
+  ],
+  "blocks_per_layer": [
+    3,
+    8,
+    20,
+    20,
+    3,
+    3
+  ],
+  "num_classes": 9176,
+  "resolution": 512
+}
