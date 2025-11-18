@@ -1,0 +1,2 @@
+# SDXL-LORA_TRAIN-
+Training of SDXL for INTEL ARC GPU
